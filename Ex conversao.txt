@@ -1,0 +1,14 @@
+using System;
+class HelloWorld {
+  static void Main() {
+    byte varDestino;
+    short i,varFonte = 281;
+   
+   
+    for(i = 250; i < 281; i++){
+        varDestino = (byte) i ;
+        Console.WriteLine(varDestino);
+       
+    }
+  }
+}

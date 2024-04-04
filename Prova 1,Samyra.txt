@@ -1,0 +1,75 @@
+//1
+
+Console.WriteLine("Digite o primeiro número: ");
+    Double a1 =  Double.Parse(Console. ReadLine());
+    Console.WriteLine("Digite a razao da pa: ");
+    Double r =  Double.Parse(Console. ReadLine());
+    Console.WriteLine("Digite a quantidade de termo: ");
+    Double n =  Double.Parse(Console. ReadLine());
+    Double an = a1 + (n-1)*r;
+    Double somaPA = (n/2)*(a1 + an);
+    Console.WriteLine("Resultado: " + somaPA);
+
+//2
+Console.WriteLine("Nota: ");
+    Double n =  Double.Parse(Console. ReadLine());
+    Console.WriteLine("Frequencia: ");
+    Double f =  Double.Parse(Console. ReadLine());
+  
+    if((n>=60) && (f>=75)){
+        Console.WriteLine("O aluno esta aprovado.");
+    }else{
+        Console.WriteLine("O aluno esta reprovado.");
+    }
+
+//3
+Console.WriteLine("Valor do Raio: ");
+    Double raio =  Double.Parse(Console. ReadLine());
+    Console.WriteLine("Valor da Altura: ");
+    Double h =  Double.Parse(Console. ReadLine());
+    Double pi = 3.1415169;
+    Double volumedalata = pi * (Math.Pow(raio,2) * h);
+    Console.WriteLine("O volume da lata é: " + volumedalata);
+
+//4
+Console.Write("Digite um número inteiro positivo: ");
+    int n = int.Parse(Console.ReadLine());
+
+    int i = 1;
+    while (i*(i+1)*(i+2) < n){
+            i++;
+    }
+    
+    if (i*(i+1)*(i+2) == n){
+            Console.WriteLine(n + " é um número triangular.");
+    }else{
+            Console.WriteLine(n + " não é um número triangular.");
+    }
+
+//5
+
+int numeroPedido;
+    double valorTotal = 0;
+
+    do{
+       Console.Write("Digite o número do pedido (ou 0 para encerrar): ");
+        numeroPedido = int.Parse(Console.ReadLine());
+
+        if (numeroPedido != 0){
+                Console.Write("Digite a data do pedido (dia/mês/ano): ");
+                string dataPedido = Console.ReadLine();
+
+                Console.Write("Digite o preço unitário: ");
+                Double precoUnitario = double.Parse(Console.ReadLine());
+
+                Console.Write("Digite a quantidade: ");
+                int quantidade = int.Parse(Console.ReadLine());
+
+                double valorPedido = precoUnitario * quantidade;
+                Console.WriteLine($"Pedido {numeroPedido} - Data: {dataPedido} - Valor: R${valorPedido}");
+
+                valorTotal += valorPedido;
+            }
+        } while (numeroPedido != 0);
+
+        Console.WriteLine($"Valor total da compra: R${valorTotal}");

@@ -1,0 +1,36 @@
+using System;
+class HelloWorld {
+  static void Main() {
+      
+    String resultado = "";  
+    int x = 3;
+   
+    while(x > 0){
+    
+        
+        if(x>2){      
+          resultado = resultado + "a";
+          
+        }
+          
+         
+     if (x == 1){
+         resultado = resultado + "d";
+        
+         
+         
+     }
+     if (x == 2){
+         resultado = resultado + " b - c ";
+         
+        
+     }
+      resultado = resultado + "-";
+      x = x - 1 ;
+    }
+    Console.WriteLine (resultado);
+  } 
+  
+  
+}
+ 

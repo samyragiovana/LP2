@@ -1,0 +1,50 @@
+
+    int ant = -1, atual = 1,prox,a, i;
+    Console.WriteLine("Digite quantos numeros da sequencia voce deseja ve: ");
+    a = int.Parse(Console.ReadLine());
+    Console.Clear();
+    
+    for(i = 0; i < a; i++){
+        prox = ant + atual;
+        Console.WriteLine(prox);
+        ant = atual;
+        atual = prox;
+    }
+  
+
+
+string n;
+    Console.WriteLine("Digite a palavra: ");
+    n = Console.ReadLine();
+    
+    int l = n.Length;    
+
+    for(int i=0;i<l;i++){
+        if(i == (l-1-i)){
+        }else if(n[i] != n[(l-1-i)]){
+            Console.WriteLine("Não é um palíndromo");
+            break;
+        }if(i == (l-1)){
+            Console.WriteLine("É um palíndromo");
+        }
+    }
+
+
+string n;
+    Console.WriteLine("Digite o número: ");
+    n = Console.ReadLine();
+
+    long l = (long)Convert.ToDouble(n);
+    
+    for(int i=0;i<l;i++){
+        if (i!=0 && i!=1 && l%i==0){
+            Console.WriteLine("Não é primo");
+            break;
+        }if(i==l-1){
+            Console.WriteLine("É primo");
+        }
+    }
+
+
+
+

@@ -1,0 +1,67 @@
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.exe
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.deps.json
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.runtimeconfig.json
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.dll
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.pdb
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.AssemblyReference.cache
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.Form2.resources
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.GenerateResource.cache
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.AssemblyInfoInputs.cache
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.AssemblyInfo.cs
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.CoreCompileInputs.cache
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.dll
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\refint\Atividade 3.dll
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.pdb
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.genruntimeconfig.cache
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\ref\Atividade 3.dll
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.Botoes.resources
+E:\Users\0064125\source\repos\Atividade 3\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.raiz.resources
+D:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.exe
+D:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.deps.json
+D:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.runtimeconfig.json
+D:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.dll
+D:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.pdb
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.AssemblyReference.cache
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.Botoes.resources
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.raiz.resources
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.Form2.resources
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.GenerateResource.cache
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.AssemblyInfoInputs.cache
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.AssemblyInfo.cs
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.CoreCompileInputs.cache
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.dll
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\refint\Atividade 3.dll
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.pdb
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.genruntimeconfig.cache
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\ref\Atividade 3.dll
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.retangulo.resources
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.bhaskara.resources
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.maior.resources
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.areaCirculo.resources
+D:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.km.resources
+F:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.exe
+F:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.deps.json
+F:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.runtimeconfig.json
+F:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.dll
+F:\LP2\Atividade 3\bin\Debug\net6.0-windows\Atividade 3.pdb
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.AssemblyReference.cache
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.areaCirculo.resources
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.bhaskara.resources
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.Botoes.resources
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.km.resources
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.maior.resources
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.raiz.resources
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.retangulo.resources
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade_3.Form2.resources
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.GenerateResource.cache
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.AssemblyInfoInputs.cache
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.AssemblyInfo.cs
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.csproj.CoreCompileInputs.cache
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.dll
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\refint\Atividade 3.dll
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.pdb
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\Atividade 3.genruntimeconfig.cache
+F:\LP2\Atividade 3\obj\Debug\net6.0-windows\ref\Atividade 3.dll

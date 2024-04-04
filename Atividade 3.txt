@@ -1,0 +1,99 @@
+/******************************************************************************
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+using System;
+class HelloWorld {
+  static void Main() {
+    //1
+    //Console.WriteLine("Hoje é quarta-feira, 01 de março");
+    
+    
+    //2
+    /*Console.WriteLine("A: ");
+    float a =  float.Parse(Console. ReadLine());
+    Console.WriteLine("B: ");
+    float b =  float.Parse(Console. ReadLine());
+    Console.WriteLine("C: ");
+    float c =  float.Parse(Console. ReadLine());
+    float res = (a+b) * c;
+    Console.WriteLine("Resultado: " +  res);*/
+    
+    
+    //3
+    /*Console.WriteLine("digite o valor:");
+    double valor = double.Parse(Console.ReadLine());
+    double raiz = Math.Sqrt(valor);
+    Console.WriteLine("Raiz: " + raiz);*/
+    
+    //4
+    /*Console.WriteLine("Base: ");
+    Double b =  Double.Parse(Console. ReadLine());
+    Console.WriteLine("Altura: ");
+    Double h =  Double.Parse(Console. ReadLine());
+    
+    Double area = b * h;
+    Console.WriteLine("Area: " +  area);*/
+    
+    //5
+    Console.WriteLine("A: ");
+    Double a =  Double.Parse(Console. ReadLine());
+    Console.WriteLine("B: ");
+    Double b =  Double.Parse(Console. ReadLine());
+    Console.WriteLine("C: ");
+    Double c =  Double.Parse(Console. ReadLine());
+    Double delta = ((b*b) - 4*a*c);
+    if(delta > 0){
+    Double x1 = ((-(b) + Math.Sqrt(delta)) / 2*a) ;
+    Double x2 = ((-(b) - Math.Sqrt(delta)) / 2*a);
+    Console.WriteLine("X1: " +  x1);
+    Console.WriteLine("X2: " +  x2);
+    } else if(delta == 0){
+        Double x1 = ((-(b) + Math.Sqrt(delta)) / 2*a) ;
+        Console.WriteLine("X1: " +  x1);
+    } else{
+        Console.WriteLine("Não existe raiz");
+    }
+    
+    //6
+   /* Console.WriteLine("A: ");
+    int a =  int.Parse(Console. ReadLine());
+    Console.WriteLine("B: ");
+    int b =  int.Parse(Console. ReadLine());
+    Console.WriteLine("C: ");
+    int c =  int.Parse(Console. ReadLine());
+    
+    if((a>b) && (a>c)){
+        Console.WriteLine("A é maior: " + a);
+    }else if((b>a) && (b>c)){
+        Console.WriteLine("B é maior: " + b);
+    } else if((c>b) && (c>b)){
+        Console.WriteLine("C é maior: " + c);
+    } else{
+        Console.WriteLine("Os números são iguais.");
+    }*/
+    
+    //7
+    /*Console.WriteLine("Valor do Raio: ");
+    Double raio =  Double.Parse(Console. ReadLine());
+    Double pi = 3.14;
+    Double area = pi * (Math.Pow(raio,2));
+    Console.WriteLine("A área é: " + area);*/
+    
+    //8
+    Console.WriteLine("Km inicial: ");
+    Double a =  Double.Parse(Console. ReadLine());
+    Console.WriteLine("Km Final: ");
+    Double b =  Double.Parse(Console. ReadLine());
+    Double contakm = b-a;
+    Double custo = 0.85 * (contakm);
+    if(custo < 0){
+        custo = custo * -1;
+    }
+    Console.WriteLine("O custo será de : " + custo);
+  }
+}
